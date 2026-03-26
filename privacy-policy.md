@@ -42,7 +42,7 @@ The App is designed for trade and compliance record-keeping. You may store:
 
 - **Device type and operating system** (as needed for the App to function).
 - **Diagnostic and crash-related data** may be collected by our analytics or crash-reporting tools if enabled in your build.
-
+ 
 ### 2.4 Purchases
 
 If you subscribe through the App Store or Google Play:
