@@ -2,10 +2,11 @@
 
 **Last updated:** 26/03/2026
 
-**App:** Sitemate  
+**App:** TradeMate - Site Client Job
+  
 **Publisher:** Dylan Stables
 
-This Privacy Policy describes how Sitemate (“the App”, “we”, “us”) collects, uses, and shares information when you use our mobile application and related services.
+This Privacy Policy describes how TradeMate - Site Client Job (“the App”, “we”, “us”) collects, uses, and shares information when you use our mobile application and related services.
 
 By using the App, you agree to this policy. If you do not agree, please do not use the App.
 
@@ -105,7 +106,7 @@ Depending on where you live, you may have rights to:
 - Withdraw consent where processing is consent-based.
 - Lodge a complaint with a supervisory authority (e.g. in the UK, the ICO).
 
-To exercise these rights, contact: **[your-privacy-email@example.com]**.
+To exercise these rights, contact: tradelog.invite@gmail.com
 
 ---
 
