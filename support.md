@@ -1,4 +1,4 @@
-# Support — Sitemate
+# Support — TradeMate
 
 **App:** TradeMate - Site Client Job
 **Publisher:** Dylan Stables
@@ -11,7 +11,7 @@ This page describes how to get help with TradeMate - Site Client Job and what to
 
 **Email:** tradelog.invite@gmail.com
 
-We aim to respond within **[e.g. 2 business days]**. For account, billing, or data requests, use the same address and include the details below.
+We aim to respond within 3 Working days. For account, billing, or data requests, use the same address and include the details below.
 
 ---
 
@@ -63,7 +63,7 @@ For privacy questions or data access/deletion requests, see our **[Privacy Polic
 
 ## Reporting a security issue
 
-Email **[your-security-email@example.com]** with “Security” in the subject. Do not publicly disclose vulnerabilities until we’ve had a chance to respond.
+Email tradelog.invite@gmail.com with “Security” in the subject. Do not publicly disclose vulnerabilities until we’ve had a chance to respond.
 
 ---
 
@@ -83,6 +83,6 @@ Email **[your-security-email@example.com]** with “Security” in the subject. 
 
 We may update this support page. The “last updated” date at the top should reflect the latest revision.
 
-**Last updated:** 26/03/2026
+**Last updated:** 14/04/2026
 
 ---
