@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 26/03/2026
+**Last updated:** 14/04/2026
 
 **App:** TradeMate - Site Client Job
   
@@ -137,7 +137,6 @@ We may update this Privacy Policy from time to time. We will post the new versio
 ## 12. Contact
 
 **Privacy:** tradelog.invite@gmail.com
-**General support:** tradelog.invite@gmail.com
-**Website / company:** https://www.tradelog.uk/
+**General support:** tradelog.invite@gmail.com 
 
 ---
